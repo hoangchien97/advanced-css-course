@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangchien97/advanced-css-course.git"
+  },
+  "author": "ChienHoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangchien97/advanced-css-course/issues"
+  },
+  "homepage": "https://github.com/hoangchien97/advanced-css-course#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "dependencies": {}
+}
